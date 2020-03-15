@@ -1,0 +1,21 @@
+{
+	"Pad Thai": {
+	"Flavours": ["Sweet", "Sour", "Salty", "Spicy"],
+	"Ingredients": {"Flat rice noodles": 8,
+	"Oil" : 3,
+	"Garlic": 3,
+	"Chicken Breast": 8,
+	"Eggs": 2,
+	"Bean Sprouts": 1,
+	"Red Bell Pepper": 1,
+	"Green Onions": 3,
+	"Dry Roasted Peanuts": 0.5,
+	"Limes": 2,
+	"Cilantro": 0.5,
+	"Fish Sauce": 3,
+	"Low Sodium Soy Sauce": 1,
+	"Light Brown Sugar": 5,
+	"Sriracha Hot Sauce": 1
+	}
+}
+}

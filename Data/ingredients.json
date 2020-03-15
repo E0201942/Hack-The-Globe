@@ -1,0 +1,31 @@
+{
+	"Flat rice noodles": {"measure": "ounces", "shelf life": 3, "nutrition": {"calories": 31,"carbohydrates": 6.8, "fibres": 0.3}},
+	"Oil" : {"meaure": "tablespoons", "shelf life": 1825, "nutrition": {"calories": 119, "fat": 13.5, "saturated fat": 1.9}},
+	"Garlic":{"meaure": "cloves", "shelf life": 90,  "nutrition": 
+		{"calories": 4, "protein": 0.18, "fat": 0.01, "carbohydrates": 0.93, "fibres": 0.1, "sugar": 0.03}},
+	"Chicken Breast": {"meaure": "ounces", "shelf life": 365, "nutrition": 
+		{"calories": 47.1, "protein": 8.86, "fat": 1.03}},
+	"Eggs": {"meaure": "", "shelf life": 21,  "nutrition": 
+		{"calories": 75, "protein": 7, "fat": 5, "saturated fat": 1.6}},
+	"Bean Sprouts": {"meaure": "cups", "shelf life": 14, "nutrition": 
+		{"calories": 53, "protein": 8, "fat": 1, "carbohydrates": 8}},
+	"Red Bell Pepper": {"meaure": "", "shelf life": 7,"nutrition": 
+		{"calories": 31, "protein": 1, "sugar": 4.2, "carbohydrates": 6, "fibres": 2.1, "fat": 0.3}},
+	"Green Onions": {"meaure": "", "shelf life": 14, "nutrition": 
+		{"calories": 4.6, "protein": 0.27, "carbohydrates": 1.8, "fibres":0.23, "sugar": 0.27, "fat": 0.03}},
+	"Dry Roasted Peanuts": {"meaure": "cups", "shelf life": 180,"nutrition": 
+		{"calories": 810, "protein": 36.9, "carbohydrates": 22.9, "sugar": 6.7, "fibres": 12.1, "fat": 70.3, 
+		"saturated fat": 9}},
+	"Limes":{"meaure": "", "shelf life": 14, "nutrition": 
+		{"calories": 20, "protein": 0.5, "fat": 0.1, "fibres": 1.9, "carbohydrates": 7}},
+	"Cilantro": {"meaure": "cups", "shelf life": 7, "nutrition": 
+		{"calories": 3.68, "fat": 0.083, "saturated fat": 0.587}},
+	"Fish Sauce": {"meaure": "tablespoons", "shelf life": 1825, "nutrition": 
+		{"calories": 15, "carbohydrates": 1, "protein": 2, "sugar": 1}},
+	"Low Sodium Soy Sauce": {"meaure": "tablespoons", "shelf life": 730,"nutrition": 
+		{"calories": 10, "carbohydrates": 1, "sodium": 0.575}},
+	"Light Brown Sugar": {"meaure": "tablespoons", "shelf life":  730, "nutrition": 
+		{"calories": 15, "carbohydrates": 4, "sugar": 4}},
+	"Sriracha Hot Sauce": {"meaure": "tablespoons", "shelf life":  1095, "nutrition": 
+		{"calories": 15, "carbohydrates": 3, "sugar": 1, "fibres": 1}}
+}
